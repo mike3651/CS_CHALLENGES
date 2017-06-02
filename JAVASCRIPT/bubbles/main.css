@@ -1,0 +1,12 @@
+/* Bubble test
+ * Michael Wilson */
+#screen{
+	position: relative;
+}
+
+.bubble{
+	position: absolute;
+	background-color: blue;
+	width: 10px;
+	height: 10px;	
+}
